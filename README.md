@@ -1,7 +1,7 @@
 # Fish Freshness Detection
 
 ## Introduction
-This is an attempt to improve the work of  detecting "fresh fish" from the "rotten" ones. This work is done following the paper [Fish Freshness Detection Through Artificial Intelligence Approaches: A Comprehensive Study]([https://pages.github.com/](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Fish+Freshness+Detection+Through+Artificial+Intelligence+Approaches%3A+A+Comprehensive+Study&btnG=)).
+This is an attempt to improve the work of  detecting "fresh fish" from the "rotten" ones. This work is done following the paper [Fish Freshness Detection Through Artificial Intelligence Approaches: A Comprehensive Study](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_vis=1&q=Fish+Freshness+Detection+Through+Artificial+Intelligence+Approaches%3A+A+Comprehensive+Study&btnG=).
 
 ## Things I have done here
 - Done a  binary Classification
