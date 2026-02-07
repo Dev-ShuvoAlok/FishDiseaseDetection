@@ -17,3 +17,5 @@ This is an attempt to improve the work of  detecting "fresh fish" from the "rott
 - For the beginner people, this code will be extremely useful.
 
   ***Thanks for the Read***
+
+There is a update in readme.main file
