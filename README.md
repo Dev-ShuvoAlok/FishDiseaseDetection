@@ -18,4 +18,4 @@ This is an attempt to improve the work of  detecting "fresh fish" from the "rott
 
   ***Thanks for the Read***
 
-There is a update in readme.main file
+This is the latest Update.
